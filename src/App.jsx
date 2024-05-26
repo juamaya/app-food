@@ -3,7 +3,7 @@ import Meal from './componentes/Meal'
 import RecipeInfo from './componentes/RecipeInfo'
 import Footer from './componentes/Footer'
 
-import './componentes/styles.css'
+import './assets/styles.css'
 import { Routes, Route } from 'react-router-dom'
 function App() {
 
